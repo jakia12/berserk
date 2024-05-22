@@ -19,13 +19,17 @@
 
 @font-face {
   font-family: custom;
-  src: url(./cydonia-century-cdnfonts/cydoniacentury.ttf);
+  src: url('./Potsdam.ttf');
+  /* src: url(./cydonia-century-cdnfonts/cydoniacentury.ttf); */
 }
 
 @font-face {
   font-family: custom2;
-  src: url(./police-cruiser-cdnfonts/policecruiser.ttf);
+  src: url('./Potsdam.ttf');
+  /* src: url(./police-cruiser-cdnfonts/policecruiser.ttf); */
 }
+
+
 
 .elementor-kit-359 a {
   font-family: "custom", Sans-serif;
